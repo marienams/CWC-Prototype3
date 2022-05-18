@@ -28,7 +28,7 @@ public class SpawnManager : MonoBehaviour
         if(playerControlScript.gameOver == false)
         {
             Instantiate(obstacle, spawnPos, obstacle.transform.rotation);
-            Debug.Log("Obstacle created");
+            //Debug.Log("Obstacle created");
         }
         
         // currently taking the obstacle, instantiating them in th position and rotation of spawn manager
