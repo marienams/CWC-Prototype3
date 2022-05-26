@@ -10,10 +10,10 @@ Players dodges incoming obstacles while running on an endless path. The player l
 Use space bar to jump over obstacles.
 
 <b>GAME FEATURES</b>
-Player controls, changing background and environment.
+Player controls, changing background and environment, animation, Sound and particle effects
 
 <b>SCRIPTING HIGHLIGHTS</b>
-Basic moveLeft and moveRight scripts, Rigidbody.physics change for the jump, getKey for user control, working with tags for collission detection.
+moveLeft and moveRight scripts, Rigidbody.physics change for the jump, getKey for user control, working with tags for collission detection.
 
 <b>WHAT TO DO NEXT</b>
-Basic animation, Sound and particle effects, User Interface, power-ups for player, new levels.
+ User Interface, power-ups for player, new levels.
